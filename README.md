@@ -2,7 +2,7 @@
 
 >... y apareció el clon de Laravel.
 
-Mi nombre es **Henry Díaz**, *** (Full Stack Programmer) ***, residente en el area de _Morales Izabal, Guatemala_
+Mi nombre es **Henry Díaz**, ***Full Stack Programmer***, residente en el area de _Morales Izabal, Guatemala_
 
 Vamos a empezar un curso denominado **µFramework desde cero**.
 
