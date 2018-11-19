@@ -6,7 +6,7 @@ Mi nombre es **Henry Díaz**, ***Full Stack Programmer***, residente en el area 
 
 Vamos a empezar un curso denominado **µFramework desde cero**.
 
-Deseo construir desde cero una micro framework en **PHP**, siguiendo el _Patron_ **MVC**. El objetivo de este curso es darle a usted que esta iniciando en el desarrollo web, una base y un mejor entendimiento sobre el funcionamiento de los grandes frameworks **PHP** de renombre existentes en el mercado como **Laravel**, **Symphony**, **CakePHP** entre otros.
+Deseo construir desde cero un micro framework en **PHP**, siguiendo el _Patron_ **MVC**. El objetivo de este curso es darle a usted que esta iniciando en el desarrollo web, una base y un mejor entendimiento sobre el funcionamiento de los grandes frameworks **PHP** de renombre existentes en el mercado como **Laravel**, **Symphony**, **CakePHP** entre otros.
 
 Continuamos centrandonos en el desarrollo tomando como mínima versión de PHP para su despliegue la 5.6, aprendiendo y 
 repasando todos los conceptos básicos para que adquieras unos cimientos sólidos que te permitan continuar tu 
