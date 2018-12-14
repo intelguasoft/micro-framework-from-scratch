@@ -14,8 +14,8 @@ aprendizaje por ti mismo si así lo quisieras.
 1. Estudiantes de ciclos formativos o universitarios
 1. Profesionales que necesitan adquirir nuevas competencias
 1. Autodidactas interesados en el desarrollo web
-1. Ingenieros en Sistemas ejerciendo o desempleados.
+1. Ingenieros en Sistemas administradores de Café Intenet.
+1. Ingenieros en Sistemas que dan clases en escuelas primarias.
+1. y otros Ingenieros en sistemas...
 
-Si le interesa lo que acaba de ver dirijase a la siguiente dirección: [previa del curso](https://github.com/Intelguasoft/micro-framework-from-scratch/wiki).
-
-[@intelguasoft](https://twitter.com/Intelguasoft)
+Si no le molesta lo que acaba de ver dirijase a la siguiente dirección para tener una [previa del curso](https://github.com/Intelguasoft/micro-framework-from-scratch/wiki).
